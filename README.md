@@ -16,6 +16,6 @@ Olá! Sou **Leonardo Pomim**, **🔐 Estudante de Cibersegurança**, interessado
 ```
 
 <div align="center"
-  <img src="https://skillicons.dev/icons?i=python,linux" />
-
+  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/61a3b261-d8ef-4ef2-addb-ba352ac7aafe" />
+  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/67159ac0-dfca-4fa2-81ad-749e2cadebd4" />
 </div>
