@@ -16,6 +16,6 @@ Olá! Sou **Leonardo Pomim**, **🔐 Estudante de Cibersegurança**, interessado
 ```
 
 <div align="center"
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/61a3b261-d8ef-4ef2-addb-ba352ac7aafe" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/67159ac0-dfca-4fa2-81ad-749e2cadebd4" />
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4c6b188e-a68b-4e59-a5d7-271b5043c11c" />
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/da0c2764-6c3a-40a9-bebe-e4d52def10dd" />
 </div>
