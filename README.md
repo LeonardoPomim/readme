@@ -16,5 +16,5 @@ Olá! Sou **Leonardo Pomim**, **🔐 Estudante de Cibersegurança**, interessado
 ```
 
 <div align="center"
-  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/da0c2764-6c3a-40a9-bebe-e4d52def10dd" />
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/49a4d61e-81b6-4577-819b-a1f06e9be648" />
 </div>
